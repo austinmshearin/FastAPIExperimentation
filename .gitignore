@@ -1,0 +1,11 @@
+# Python Virtual Environment Directory
+*_VirEnv/
+
+# Compiled Python Files
+*.pyc
+
+# Jupyter notebook checkpoint files
+*-checkpoint.ipynb
+
+# Temporary Office files when file is open
+*~$*
